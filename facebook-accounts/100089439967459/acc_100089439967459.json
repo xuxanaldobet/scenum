@@ -6,10 +6,6 @@
 	"id": "100089439967459",
 	"name": "",
 	"amountFriends": "",
-	"screenname": "Ana Clara Freitas",
-	"birthdate": "2000 January 5",
-	"country": "",
-	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -39,7 +35,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673895335,
+			"expirationDate": 1673895363,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -112,8 +108,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673290454922%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673291121285%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "09.01.2023 18:55 registration"
+	"lastEventDate": "09.01.2023 19:12 registration"
 }
