@@ -74,7 +74,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1673983507,
+			"expirationDate": 1673984050,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -87,7 +87,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681154373.089242,
+			"expirationDate": 1681155022.142401,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -96,7 +96,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0xqpXESsEDlnqyobP.AWVUjYjNeh1HbsJbIbR9mwH3xYk.BjvbXq.u3.AAA.0.0.BjvbpF.AWXDrXPtePs"
+			"value": "0xqpXESsEDlnqyobP.AWVFdkUAxKKS6M6zre_rBqJNp3s.BjvbXq.u3.AAA.0.0.BjvbzO.AWU4_5cCGDU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -108,10 +108,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673378714153%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673379202556%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "10.01.2023 19:26 2fa",
+	"lastEventDate": "10.01.2023 19:34 farm0.1",
 	"screenname": "Ana Clara Freitas",
 	"birthdate": "2000 January 5",
 	"country": "",
