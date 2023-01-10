@@ -115,5 +115,9 @@
 	"screenname": "Ana Clara Freitas",
 	"birthdate": "2000 January 5",
 	"country": "",
-	"isAvatarExists": false
+	"isAvatarExists": false,
+	"email": "dingbackpeli1978@yahoo.com",
+	"emailPassword": "udlpjesszpknoquw",
+	"imapHost": "imap.mail.yahoo.com",
+	"imapPort": "993"
 }
