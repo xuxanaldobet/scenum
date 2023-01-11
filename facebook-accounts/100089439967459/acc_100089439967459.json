@@ -48,7 +48,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705001918.400854,
+			"expirationDate": 1705006996.631926,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -61,20 +61,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705001918.401057,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "4%3AmaXf4AIr0FbE2g%3A2%3A1673289503%3A-1%3A-1%3A%3AAcUeSByDM02tBJ-V7O2frf0Qx0tC-ftHT8dfoAi3-g"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674071142,
+			"expirationDate": 1674075971,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -83,11 +70,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1260x668"
+			"value": "1260x714"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681242101.432897,
+			"expirationDate": 1705006996.631998,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "4%3AmaXf4AIr0FbE2g%3A2%3A1673289503%3A-1%3A-1%3A%3AAcUFItubxAGzL95el2vcbcXa_hOa2nhSFfIOmQFnhQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1681246995.632072,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -96,7 +96,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0jCN7U5GM5GfZtzLZ.AWU3Ze5gIi-BIXcEFgKkk3FPkV4.BjvxA-.u3.AAA.0.0.BjvxD2.AWX1CREUk8U"
+			"value": "0wzrZtSeoJZxoDmzC.AWU5ScNvXuvFssPVxY7vLsGv948.BjvyQV.u3.AAA.0.0.BjvyQV.AWUs6ttV2RU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -108,10 +108,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673466292284%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673471125102%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "11.01.2023 19:55 autofill2",
+	"lastEventDate": "11.01.2023 21:06 autofill2",
 	"screenname": "Ana Clara Freitas",
 	"birthdate": "2000 January 5",
 	"country": "",
