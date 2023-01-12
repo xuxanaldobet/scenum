@@ -115,5 +115,9 @@
 	"screenname": "Beatriz Freitas",
 	"birthdate": "1998 February 13",
 	"country": "",
-	"isAvatarExists": false
+	"isAvatarExists": false,
+	"email": "settuderi1973@yahoo.com",
+	"emailPassword": "kmlqexptuanyvchb",
+	"imapHost": "imap.mail.yahoo.com",
+	"imapPort": "993"
 }
