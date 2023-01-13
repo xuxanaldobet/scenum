@@ -47,7 +47,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1674160342,
+			"expirationDate": 1674179077,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -57,19 +57,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1674160342,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1536x668"
 		},
 		{
 			"domain": ".facebook.com",
@@ -86,7 +73,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681331328.708432,
+			"expirationDate": 1674179078,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1536x714"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1681350020.669549,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -95,7 +95,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0jsOK4bJP4FBWAynH.AWX3xpclnT0FMjyMB_Iyzt-VPgQ.BjwGbk.yk.AAA.0.0.BjwG2B.AWUpjOZsPLQ"
+			"value": "0jsOK4bJP4FBWAynH.AWWH-NRunSZJjKm8nTXxyAFtKTk.BjwGbk.yk.AAA.0.0.BjwLaF.AWUOAwQttcY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -107,10 +107,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673555494368%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1673574285511%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "12.01.2023 20:49 farm0.1",
+	"lastEventDate": "13.01.2023 01:44 remover cel add email",
 	"amountFriends": "",
 	"screenname": "Beatriz Freitas",
 	"birthdate": "1998 February 13",
